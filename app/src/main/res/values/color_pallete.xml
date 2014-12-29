@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    /*
+
+
+    Green 500 #4caf50
+    50#e8f5e9
+    100#c8e6c9
+    200#a5d6a7
+    300#81c784
+    400#66bb6a
+    500#4caf50
+    600#43a047
+    700#388e3c
+    800#2e7d32
+    900#1b5e20
+    */
+    <color name="funny_50">#ffe8f5e9</color>
+    <color name="funny_100">#ffc8e6c9</color>
+    <color name="funny_200">#ffa5d6a7</color>
+    <color name="funny_300">#ff81c784</color>
+    <color name="funny_400">#ff66bb6a</color>
+    <color name="funny_500">#ff4caf50</color>
+    <color name="funny_600">#ff43a047</color>
+    <color name="funny_700">#ff388e3c</color>
+    <color name="funny_800">#ff2e7d32</color>
+    <color name="funny_900">#ff1b5e20</color>
+</resources>
